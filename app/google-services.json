@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503825775733",
+    "project_id": "bluetoothapp-45d06",
+    "storage_bucket": "bluetoothapp-45d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503825775733:android:6c9ddbe1c8f7344abf0c3c",
+        "android_client_info": {
+          "package_name": "com.example.bluetoothapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503825775733-p437ovgudh7fvv3u43scuaov03rvrbvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfoVfAyiaYi91HwHYrRWLBZsWfQitPNac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503825775733-p437ovgudh7fvv3u43scuaov03rvrbvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
